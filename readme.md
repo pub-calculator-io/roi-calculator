@@ -12,9 +12,8 @@ Free return on investment (ROI) calculator that helps investors calculate return
 3. Activate the [Return on Investment (ROI) Calculator](https://www.calculator.io/roi-calculator/ "Return on Investment (ROI) Calculator Homepage") plugin through the "Plugins" menu in WordPress.
 
 ## Usage
-* Add the shortcode `[ci_roi_calculator]` to your page or post and configure default mortgage parameters.
-* If you are using widgets, just add the Return on Investment (ROI) Calculator to the sidebar through the `Appearance -> Widgets -> Return on Investment (ROI) Calculator` menu in WordPress.
-* Add the following code: `<?php display_ci_roi_calculator(); ?>` to your template where you would like the Return on Investment (ROI) Calculator to appear.
+* Add the shortcode `[ci_roi_calculator]` to your page, post or sidebar.
+* Or add the following code: `<?php display_ci_roi_calculator(); ?>` to your template where you would like the Return on Investment (ROI) Calculator to appear.
 
 ## Libraries in Use
 1. https://mathjs.org/
