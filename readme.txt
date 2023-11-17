@@ -1,6 +1,6 @@
 === Return on Investment (ROI) Calculator by Calculator.iO ===
 Contributors: calculatorio
-Tags: 
+Tags: roi calculator, investment profit calculation, annualized roi analysis, basic roi formula, investment gain evaluation, financial investment assessment, return on investment measurement, comparing investment returns, calculating investment risk
 Requires at least: 5.0
 Tested up to: 6.4.0
 Stable tag: 1.0.0
