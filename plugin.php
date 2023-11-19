@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Return on Investment (ROI) Calculator by www.calculator.io
+Plugin Name: CI Roi calculator
 Plugin URI: https://www.calculator.io/roi-calculator/
 Description: Free return on investment (ROI) calculator that helps investors calculate return on investment, investment gain, and annualized ROI rates. 
 Version: 1.0.0
