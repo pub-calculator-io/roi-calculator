@@ -7,7 +7,7 @@ Free return on investment (ROI) calculator that helps investors calculate return
 
 ## Installation
 
-1. [Download](https://github.com/pub-calculator-io/age-calculator/archive/refs/heads/master.zip) the ZIP file of this repository.
+1. [Download](https://github.com/pub-calculator-io/roi-calculator/archive/refs/heads/master.zip) the ZIP file of this repository.
 2. Upload the /roi-calculator-master/ folder to the /wp-content/plugins/ directory.
 3. Activate the [Return on Investment (ROI) Calculator](https://www.calculator.io/roi-calculator/ "Return on Investment (ROI) Calculator Homepage") plugin through the "Plugins" menu in WordPress.
 
