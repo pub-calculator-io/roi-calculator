@@ -24,7 +24,6 @@ Add the following code to your template where you would like the Return on Inves
 == Screenshots ==
 
 1. The Return on Investment (ROI) Calculator Input Form.
-2. The Return on Investment (ROI) Calculator Calculation Results.
 
 == Installation ==
 

@@ -3,7 +3,6 @@
 Free return on investment (ROI) calculator that helps investors calculate return on investment, investment gain, and annualized ROI rates. 
 
 ![Return on Investment (ROI) Calculator Input Form](/assets/images/screenshot-1.png "Return on Investment (ROI) Calculator Input Form")
-![Return on Investment (ROI) Calculator Calculation Results](/assets/images/screenshot-2.png "Return on Investment (ROI) Calculator Calculation Results")
 
 ## Installation
 
