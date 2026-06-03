@@ -1,6 +1,6 @@
 # Return on Investment (ROI) Calculator Widget for WordPress
 
-Free return on investment (ROI) calculator that helps investors calculate return on investment, investment gain, and annualized ROI rates. 
+Maximize your earnings with our free Return on Investment (ROI) Calculator. Quickly calculate investment gains, total profit, and annualized ROI in seconds.
 
 ![Return on Investment (ROI) Calculator Input Form](/assets/images/screenshot-1.png "Return on Investment (ROI) Calculator Input Form")
 
@@ -11,8 +11,8 @@ Free return on investment (ROI) calculator that helps investors calculate return
 3. Activate the [Return on Investment (ROI) Calculator](https://www.calculator.io/roi-calculator/ "Return on Investment (ROI) Calculator Homepage") plugin through the "Plugins" menu in WordPress.
 
 ## Usage
-* Add the shortcode `[ci_roi_calculator]` to your page, post or sidebar.
-* Or add the following code: `<?php display_ci_roi_calculator(); ?>` to your template where you would like the Return on Investment (ROI) Calculator to appear.
+* Add the shortcode `[calcio_roi_calculator]` to your page, post or sidebar.
+* Or add the following code: `<?php display_calcio_roi_calculator(); ?>` to your template where you would like the Return on Investment (ROI) Calculator to appear.
 
 ## Libraries in Use
 1. https://mathjs.org/
